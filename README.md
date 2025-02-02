@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anjali Kumari</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right"alt="coding"width="400"src="![image](https://github.com/user-attachments/assets/fa6a4ec4-2ac2-4671-9a38-b6bfff50bacd)
+">
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anjali128?tab=repositories](https://github.com/Anjali128?tab=repositories)
 
