@@ -1,3 +1,4 @@
+![logo](https://github.com/Anjali128/Anjali128/blob/main/git_hub.webp)
 <h1 align="center">Hi 👋, I'm Anjali Kumari</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
